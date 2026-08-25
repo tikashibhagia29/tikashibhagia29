@@ -1,7 +1,5 @@
-# Hi there, I'm Tikashi Bhagia 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=87B8D9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=2B2B2B&background=F5EFE6&center=true&vCenter=true&width=700&height=70&lines=Tikashi+Bhagia+%E2%9C%A8;Full+Stack+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -65,27 +63,11 @@ A responsive e-commerce interface built using **HTML and CSS**.
 
 ### 📚 BookWorm — In Progress 🚧
 
-A **full-stack web application** that I am currently building using my full-stack development skills. This project allows me to bring together **frontend development, backend development, databases, and real-world functionality** in one complete application.
+A **full-stack web application** that I am currently building using my full-stack development skills. This project brings together **frontend development, backend development, databases, and real-world functionality** in one complete application.
 
 ### 🧠 Quiz Application
 
 An interactive quiz project built using **Java** and Object-Oriented Programming concepts.
-
-### 🌐 More Projects Coming Soon...
-
-I’m continuously building new projects and expanding my portfolio. ✨
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tikashibhagia29&show_icons=true&hide_border=true&title_color=2B2B2B&icon_color=D4A017&text_color=4A4A4A&bg_color=F5EFE6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tikashibhagia29&hide_border=true&background=F5EFE6&ring=D4A017&fire=D4A017&currStreakLabel=2B2B2B" />
-</p>
 
 ---
 
@@ -93,7 +75,11 @@ I’m continuously building new projects and expanding my portfolio. ✨
 
 <p align="center">
   <a href="https://github.com/tikashibhagia29">
-    <img src="https://img.shields.io/badge/GitHub-Tikashi%20Bhagia-2B2B2B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Tikashi%20Bhagia-2B2B2B?style=for-the-badge&logo=github&logoColor=F5EFE6" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/tikashi-bhagia-35184736a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tikashi%20Bhagia-87B8D9?style=for-the-badge&logo=linkedin&logoColor=2B2B2B" />
   </a>
 </p>
 
