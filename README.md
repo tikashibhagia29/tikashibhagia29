@@ -10,15 +10,15 @@
 
 ## 👩‍💻 About Me
 
-```text
-💻 Role       → Full Stack Developer
-🎓 Education  → BSCS Student
-🚀 Goal       → Creating meaningful and beautiful digital experiences
-```
+<p>
+  💻 <b>Role</b> → Full Stack Developer<br>
+  🎓 <b>Education</b> → BSCS Student<br>
+  🚀 <b>Goal</b> → Creating meaningful and beautiful digital experiences
+</p>
 
-I’m a passionate developer who enjoys exploring both the **frontend and backend** sides of web development. I love turning ideas into functional, responsive, and visually appealing applications.
+I’m a passionate developer who enjoys exploring both the <b>frontend and backend</b> sides of web development. I love turning ideas into functional, responsive, and visually appealing applications.
 
-> ✨ **Code. Create. Learn. Repeat.**
+> ✨ <b>Code. Create. Learn. Repeat.</b>
 
 ---
 
@@ -29,8 +29,16 @@ I’m a passionate developer who enjoys exploring both the **frontend and backen
 </p>
 
 <p align="center">
-  <code>C</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>React.js</code><br>
-  <code>Node.js</code> &nbsp; <code>MySQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Java OOP</code>
+  <code>C</code> &nbsp;
+  <code>HTML5</code> &nbsp;
+  <code>CSS3</code> &nbsp;
+  <code>JavaScript</code> &nbsp;
+  <code>React.js</code>
+  <br>
+  <code>Node.js</code> &nbsp;
+  <code>MySQL</code> &nbsp;
+  <code>MongoDB</code> &nbsp;
+  <code>Java OOP</code>
 </p>
 
 ---
@@ -58,8 +66,8 @@ I’m a passionate developer who enjoys exploring both the **frontend and backen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tikashibhagia29&show_icons=true&hide_border=true&title_color=2B2B2B&text_color=2B2B2B&bg_color=F5EFE6" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikashibhagia29&layout=compact&hide_border=true&title_color=2B2B2B&text_color=2B2B2B&bg_color=F5EFE6" height="180"/>
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 ---
@@ -82,9 +90,13 @@ I’m a passionate developer who enjoys exploring both the **frontend and backen
 
 ---
 
+## 👀 Profile Visitors
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tikashibhagia29&label=Profile%20Visitors&color=87B8D9&style=for-the-badge" />
 </p>
+
+---
 
 <p align="center">
   <b>“The best way to learn is to build.”</b>
