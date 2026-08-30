@@ -63,16 +63,7 @@ I’m a passionate developer who enjoys exploring both the <b>frontend and backe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
-</p>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 My Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tikashibhagia29&hide_border=true&background=F5EFE6&ring=87B8D9&fire=E5B95C&currStreakLabel=2B2B2B&sideLabels=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&dates=2B2B2B" />
