@@ -55,35 +55,36 @@ I’m a passionate developer who enjoys exploring both the **frontend and backen
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🛒 Amazon Clone
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tikashibhagia29&show_icons=true&hide_border=true&title_color=2B2B2B&text_color=2B2B2B&bg_color=F5EFE6" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikashibhagia29&layout=compact&hide_border=true&title_color=2B2B2B&text_color=2B2B2B&bg_color=F5EFE6" height="180"/>
+</p>
 
-A responsive e-commerce interface built using **HTML and CSS**.
+---
 
-### 📚 BookWorm — In Progress 🚧
+## 🔥 GitHub Streak
 
-A **full-stack web application** that I am currently building using my full-stack development skills. This project brings together **frontend development, backend development, databases, and real-world functionality** in one complete application.
-
-### 🧠 Quiz Application
-
-An interactive quiz project built using **Java** and Object-Oriented Programming concepts.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tikashibhagia29&hide_border=true&background=F5EFE6&ring=87B8D9&fire=E5B95C&currStreakLabel=2B2B2B&sideLabels=2B2B2B&currStreakNum=2B2B2B&sideNums=2B2B2B&dates=2B2B2B" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/tikashibhagia29">
-    <img src="https://img.shields.io/badge/GitHub-Tikashi%20Bhagia-2B2B2B?style=for-the-badge&logo=github&logoColor=F5EFE6" />
-  </a>
-
   <a href="https://www.linkedin.com/in/tikashi-bhagia-35184736a/">
     <img src="https://img.shields.io/badge/LinkedIn-Tikashi%20Bhagia-87B8D9?style=for-the-badge&logo=linkedin&logoColor=2B2B2B" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tikashibhagia29&label=Profile%20Visitors&color=87B8D9&style=for-the-badge" />
+</p>
 
 <p align="center">
   <b>“The best way to learn is to build.”</b>
